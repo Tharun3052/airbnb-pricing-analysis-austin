@@ -111,16 +111,12 @@ Google Cloud Platform
 
 ---
 
-## 🚀 Getting Started
-
 ```bash
 git clone https://github.com/Tharun3052/airbnb-pricing-analysis-austin.git
 cd airbnb-pricing-analysis-austin
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
 ```
-
-> Add `listings.csv` from [insideairbnb.com](http://insideairbnb.com/get-the-data.html) into the `/data` folder before running.
 
 ---
 
